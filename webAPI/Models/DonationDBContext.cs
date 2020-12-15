@@ -7,5 +7,6 @@ namespace webAPI.Models
 {
     public class DonationDBContext
     {
+
     }
 }
